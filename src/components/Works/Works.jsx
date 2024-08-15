@@ -25,16 +25,18 @@ const Works = () => {
           </span>
           <span>Tools I Used!</span>
           <spane>
-            "I have a comprehensive background in Salesforce, 
+            "I have a strong background in React, JavaScript, HTML, and CSS, 
             
             <br />
-            having served as both an administrator and developer.
+             allowing me to create dynamic and user-friendly front-end solutions.
            
             
             <br />
-            Additionally, I bring strong skills in React, JavaScript, 
+             Additionally, my experience as a Salesforce administrator 
             <br />
-            HTML, and CSS to create robust and user-friendly solutions."
+            and developer enhances my ability to integrate and optimize 
+            <br />
+            these solutions within Salesforce environments."
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
