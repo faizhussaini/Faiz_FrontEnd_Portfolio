@@ -30,7 +30,9 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hey! I Am</span>
           <span>Faiz Hussaini</span>
           <span>
-          Salesforce developer skilled in creating custom solutions and optimizing CRM functionality for business success
+          Motivated and proactive Front-End Developer with strong expertise in React.js and modern JavaScript (ES6+). 
+          Experienced in building dynamic, responsive, and user-friendly web applications with a focus on scalability 
+          and performance optimization
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
