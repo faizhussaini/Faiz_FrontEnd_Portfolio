@@ -27,9 +27,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My List Of </span>
         <span>Skills</span>
         <spane>
-          "I possess expertise in Apex, Lightning Web Components (LWC), 
+          "I specialize in React and front-end development,  
           <br />
-          React, and JavaScript, enabling me to tackle a wide range of development challenges."
+          with strong expertise in Apex, Lightning Web Components (LWC), and JavaScript, allowing me to address diverse development challenges."
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
