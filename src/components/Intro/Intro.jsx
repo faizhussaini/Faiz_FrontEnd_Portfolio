@@ -65,7 +65,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatinDiv img={crown} text1="SalesForce" text2="Developer" />
+          <FloatinDiv img={crown} text1="Software" text2="Developer" />
         </motion.div>
 
         {/* animation */}
