@@ -31,7 +31,7 @@ const Services = () => {
           <br />
           with strong expertise in Apex, Lightning Web Components (LWC), and JavaScript, allowing me to address diverse development challenges."
         </spane>
-        <a href={Resume} download>
+        <a href="https://docs.google.com/document/d/1RlFMHpRcvHqF8C9qQh-5U2gBhH3erKQFxrfGDSbQXcY/edit?usp=sharing" download>
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
